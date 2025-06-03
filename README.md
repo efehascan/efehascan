@@ -49,6 +49,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/efehascan/efehascan/output/snake.svg" alt="Snake animation" />
+
 
 ###

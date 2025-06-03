@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="assets/efehhscn.jpg"  />
+<img align="right" height="150" src="ba1a5b5d-dadb-4656-8784-19de7a22cb2d.png" />
 
 ###
 

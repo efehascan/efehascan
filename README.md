@@ -19,9 +19,11 @@
 ### İstatistikler
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=efehascan&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efehascan&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=efehascan&theme=github_dark" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=efehascan&theme=github_dark" />
 </p>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=efehascan&theme=github-dark-blue&hide_border=true&locale=tr" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/efehascan/efehascan/output/github-snake-dark.svg" />

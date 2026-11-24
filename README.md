@@ -16,13 +16,6 @@
 
 <img src="https://skillicons.dev/icons?i=unity,cs,ts,js,swift,react,nextjs,nodejs,docker&theme=dark" />
 
-### İstatistikler
-
-<p>
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=efehascan&theme=github_dark" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=efehascan&theme=github_dark" />
-</p>
-
 <img width="100%" src="https://streak-stats.demolab.com?user=efehascan&theme=github-dark-blue&hide_border=true&locale=tr" />
 
 <picture>
